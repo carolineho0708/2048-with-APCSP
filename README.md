@@ -17,12 +17,6 @@ The official app can also be found on the [Play Store](https://play.google.com/s
 
 Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
 
-### Screenshot
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cdivry/2048-with-IMAGES/master/screenshot.png" alt="Screenshot"/>
-</p>
-
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
 
